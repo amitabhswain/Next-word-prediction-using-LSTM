@@ -2,7 +2,7 @@
 
 This project implements a Next Word Prediction system using LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) neural networks. The system predicts the next word in a sequence based on the input text.
 
-Try the model in action : 
+Try the model in action : https://next-word-prediction-using-lstm-awllvpy3nqfhjnwguiqbmd.streamlit.app/
 
 
 # Key Features
